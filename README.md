@@ -7,6 +7,10 @@ Connection in ssh secure HTTP.
 Facebook login function.   
 Clients can connect to one server, create or join chat room, delete chat room as admin.  
 Reconnect to other servers will delete current chat room.  
+Heartbeat signal to detect disconection  
+
+
+
 
 **How to run?**  
 
